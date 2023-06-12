@@ -8,8 +8,6 @@ function create (donuts, donutName) {
         id: faker.string.uuid(),
         price: donutPrice[donutName]
 };
-//cartTotal = donuts.reduce((a,b) => (a + b.price), 0)
-    //console.log(chalk.green(`Your total is ${cartTotal}`))
 donuts.push(donut);
 return donuts
 }
