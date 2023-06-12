@@ -2,14 +2,14 @@
 
 ## Welcome to The Doughnut Shop
 
-A new doughnut shop is in town! We have a new system, unlike any on the market where customers can come in and add, remove, and view their orders themselves! once order is placed, one of our doughnut makers will bring them out to you! It is important that you know the comands, in order to have a smooth transaction:
+A new doughnut shop is in town! We have a new system, unlike any on the market where customers can come in and add, remove, and view their orders themselves! once your order is placed, one of our doughnut makers will bring them out to you! It is important that you know the commands, in order to have a smooth transaction:
 
-To add to order - **create**
-To display specifics about an item on order - **show**
-To make changes to an item - **update**
-To remove an item from the order - **destory**
-to display the total cost of the transaction - **score**
-To view the full order - **index**
+To add to order: **create**
+To display specifics about an item on order: **show**
+To make changes to an item: **update**
+To remove an item from the order: **destory**
+to display the total cost of the transaction: **score**
+To view the full order: **index**
 
 Our currently flavors include:
 - Glazed
